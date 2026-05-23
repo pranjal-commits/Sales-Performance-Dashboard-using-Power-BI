@@ -52,12 +52,6 @@ The dataset contains:
 
 # Dashboard Features
 
-# KPI Cards
-- Total Sales
-- Total Profit
-- Total Orders
-- Quantity Sold
-
 # Visualizations
 - Monthly Sales Trend
 - Region-wise Sales Analysis
